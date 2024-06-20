@@ -1,0 +1,10 @@
+1.创建版本库 git init
+
+2.文件添加到仓库 git add  文件名称
+
+3.文件提交 git commit -m "备注"
+
+4.查看当前仓库状态  git status
+
+5.查看修改内容 git diff
+
