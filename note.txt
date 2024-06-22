@@ -8,3 +8,6 @@
 
 5.查看修改内容 git diff
 
+6.查看历史记录 git log
+
+7.回到旧版本  git reset
