@@ -12,4 +12,15 @@
 
 7.回到旧版本  git reset
 
-8.删除文件  git  rm test.txtgit 
+8.删除文件  git  rm  "文件名称"
+
+9.添加远程仓库  git remote add origin git@github.com:仓库名称.git
+
+10.提交   git push origin master
+
+11.删除远程连接  git remote rm "仓库名称"
+
+12.克隆远程库  git clone "仓库地址"
+
+
+
