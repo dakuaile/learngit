@@ -11,3 +11,5 @@
 6.查看历史记录 git log
 
 7.回到旧版本  git reset
+
+8.删除文件  git  rm test.txtgit 
