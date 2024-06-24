@@ -22,5 +22,18 @@
 
 12.克隆远程库  git clone "仓库地址"
 
+13.创建分支并切换分支  git switch -c "分支名称"
 
+14.查看当前分支  git branch 
 
+15.合并分支  git merge "分支名称"
+
+16.删除分支 git brand -d "分支名称"
+
+17.切换分支 git switch "分支名称"
+
+18.查看分支合并情况  git log  参数
+
+19.合并分支 加 --no-ff参数 禁用Fast forward：
+
+20.
